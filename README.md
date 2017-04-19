@@ -7,3 +7,4 @@ ECML PKDD conference. Submitted. 2017.
 
 ### Dependencies:
 * scikit-learn
+* pandas
