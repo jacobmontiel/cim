@@ -1,9 +1,10 @@
 # Cascade Imputation
 
-This project contains the implementation of the "Cascade Imputation" described our upcoming paper:
+This project contains the implementation of the "Cascade Imputation" described in our paper:
 
-Jacob Montie, Jesse Read, Albert Bifet and Talel Abdessalem. “Scalable Model-based Cascaded Imputation of Missing Data”.
-ECML PKDD conference. Submitted. 2017.
+“Scalable Model-Based Cascaded Imputation of Missing Data”.
+Montiel, Jacob, Jesse Read, Albert Bifet, and Talel Abdessalem.
+In 2018 Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), pp. 64-76. Springer, Cham, 2018.
 
 ### Dependencies:
 * scikit-learn
